@@ -18,6 +18,7 @@ La  interfaz en java  cuenta con diferentes acciones sobre el brazo:
 •	Subir 
 
 •	Bajar
+
 Es una  interfaz amigable con el  usuario dado que  se pretende que llegue a ser de alto alcance en un futuro. 
 
 # Requisitos para utilizar el programa 
