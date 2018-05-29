@@ -21,13 +21,14 @@ La  interfaz en java  cuenta con diferentes acciones sobre el brazo:
 Es una  interfaz amigable con el  usuario dado que  se pretende que llegue a ser de alto alcance en un futuro. 
 
 # Requisitos para utilizar el programa 
-• Se requiere contar con el software Arduino para poder ejecutar el codigo
-• La interfaz del usuario fue elaborada en el lenguaje Java.
-• El diagrama incluido fue elaborado en el software de diseño Fritzing.
-• Se rquiere tambien contar con el circuito armado para su correcto funcionamiento
+• Se requiere contar con el software Arduino para poder ejecutar el codigo <br>
+• La interfaz del usuario fue elaborada en el lenguaje Java. <br>
+• El diagrama incluido fue elaborado en el software de diseño Fritzing. <br>
+• Se rquiere tambien contar con el circuito armado para su correcto funcionamiento <br>
 
 # Elaborado por
-• Aurora Denysse Canencia Rodriguez  contacto: aurora_denysse@hotmail.com 
+• Aurora Denysse Canencia Rodriguez  contacto: aurora_denysse@hotmail.com  <br>
+
 • Diana Andrea Ramos Ledesma 
 
 
