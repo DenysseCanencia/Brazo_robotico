@@ -42,6 +42,6 @@ Es una  interfaz amigable con el  usuario dado que  se pretende que llegue a ser
 # Elaborado por
 • Aurora Denysse Canencia Rodriguez  contacto: aurora_denysse@hotmail.com  <br>
 
-• Diana Andrea Ramos Ledesma 
+• Diana Andrea Ramos Ledesma  contacto: dianaandrea.rl@hotmail.com <br>
 
 
