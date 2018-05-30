@@ -28,15 +28,15 @@ Es una  interfaz amigable con el  usuario dado que  se pretende que llegue a ser
 • Se rquiere tambien contar con el circuito armado para su correcto funcionamiento <br>
 
 # Contenido 
-•Diagrama semaforos.fzz : Diagrama de las conexiones y componentes realizados para hacer la práctica hecha en Fritzing.
+•Diagrama brazo.fzz : Diagrama de las conexiones y componentes realizados para hacer la práctica hecha en Fritzing.<br>
 
-•Código Brazo.ino
+•Código Brazo.ino <br>
 
-•PruebaJava
+•PruebaJava<br>
 
-•Evidencias Linux
+•Evidencias Linux <br>
 
-• Diagrama semaforos.fzz : Diagrama de las conexiones y componentes realizados para hacer la práctica hecha en Fritzing.
+
 
 
 # Elaborado por
